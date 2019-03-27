@@ -26,4 +26,4 @@ fi
 
 # make
 echo "-----> Compiling with Make"
-make clean && make install
+make 
