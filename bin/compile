@@ -4,7 +4,7 @@
 set -e
 set -o pipefail
 
-BUILD_DIR=../src/
+BUILD_DIR=/app/src/
 CACHE_DIR=$2
 
 function indent() {
